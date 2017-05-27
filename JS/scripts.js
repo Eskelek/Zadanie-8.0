@@ -1,7 +1,7 @@
 var a = 5,
     h = 7,
-    triangleArean = a*h/2;
+    triangleArea = a*h/2;
 
-console.log('triangle field with base a: ' + a + ' and height h: ' + h + ' is equal to: ' + triangleArean);
+console.log('triangle field with base a: ' + a + ' and height h: ' + h + ' is equal to: ' + triangleArea);
 
-var show = prompt("triangle field: " + triangleArean + " ...I'm right?");
+var show = prompt("triangle field: " + triangleArea + " ...I'm right?");
