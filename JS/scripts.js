@@ -4,4 +4,4 @@ var a = 5,
 
 console.log('triangle field with base a: ' + a + ' and height h: ' + h + ' is equal to: ' + triangleArea);
 
-var show = prompt("triangle field: " + triangleArea + " ...I'm right?");
+var show = alert("triangle field: " + triangleArea + " ...I'm right?");
